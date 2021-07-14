@@ -1,4 +1,4 @@
 # BasketBall_Game_Unity
-First 3D game using UNITY
+3D game using UNITY
 
 
